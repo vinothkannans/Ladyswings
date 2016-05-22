@@ -1,4 +1,4 @@
-package com.vinkas.sample.webkit;
+package com.ladyswings.mobile;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         BrowserLayout browserLayout = (BrowserLayout) findViewById(R.id.browser);
-        browserLayout.loadUrl("https://github.com/Vinkas-com");
+        browserLayout.loadUrl("https://ladyswings.com");
     }
 
 }
