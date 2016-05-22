@@ -1,5 +1,4 @@
 #[Lady's Wings - ladyswings.com](http://ladyswings.com)
-<hr />
 Android app for Lady's Wings forum. Largest Tamil women's community portal in India
 <br /><br />
 <a href="https://play.google.com/store/apps/details?id=com.ladyswings.mobile">
